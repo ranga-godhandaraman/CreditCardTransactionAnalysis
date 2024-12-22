@@ -26,7 +26,7 @@ The project requires the following Python libraries:
 
 Install dependencies using:
 ```bash
-pip install scikit-learn seaborn matplotlib xgboost
+pip install -r requirements.txt
 ```
 
 ## Data Analysis Components
