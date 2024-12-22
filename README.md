@@ -2,7 +2,7 @@
 
 ## Overview
 This project analyzes credit card transaction data to provide insights and build predictive models for better financial decision-making. The analysis includes data preprocessing, exploratory data analysis (EDA), visualization, and machine learning model development.
-Thes dataset is available in [KAGGLE](https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india)
+This dataset is available in [KAGGLE](https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india) Thanks to the original author of the dataset.
 
 ## Features
 - Data preprocessing and cleaning
